@@ -1,1 +1,1 @@
-# S-P-500-ml-project
+# applying statistical analysis on a medical ensurance dataset
